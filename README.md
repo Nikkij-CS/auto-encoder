@@ -1,6 +1,6 @@
 # auto-encoder
-##Nikhila Jajapuram
-##700759188
+## Nikhila Jajapuram
+## 700759188
 
 ## Question 1: Basic Autoencoder
 ### Objective:
